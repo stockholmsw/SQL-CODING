@@ -1,3 +1,4 @@
+
 SELECT title,description FROM film;
 SELECT * FROM film WHERE length >60 OR LENGTH<75;
 SELECT rental_rate,replacement_cost  FROM film
